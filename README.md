@@ -6,7 +6,7 @@ Welcome to our world divided between Playstation 5 and Xbox Series X! A modern a
 
 ## 👀 Demo
 
-Check out the [project demo here](link_to_demo).
+Check out the [project demo here] => (https://github.com/lambrugeorge/SplitLandingPage.git).
 
 ## 💻 Technologies Used
 
@@ -28,4 +28,4 @@ Lambru Adrian Georgian
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/username/split-landing-page.git
+   git clone https://github.com/lambrugeorge/SplitLandingPage.git
