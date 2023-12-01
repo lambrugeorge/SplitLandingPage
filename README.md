@@ -6,7 +6,7 @@ Welcome to our world divided between Playstation 5 and Xbox Series X! A modern a
 
 ## 👀 Demo
 
-Check out the [project demo here] => (https://github.com/lambrugeorge/SplitLandingPage.git).
+Check out the [project demo here] => (https://lambrugeorge.github.io/SplitLandingPage).
 
 ## 💻 Technologies Used
 
